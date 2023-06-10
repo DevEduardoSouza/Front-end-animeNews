@@ -1,2 +1,2 @@
 # Front-animeNews
-  APIs de serviços relacionados a animes serão integradas para obter informações atualizadas sobre animes populares, episódios, personagens e avaliações. O objetivo é entregar um front-end funcional e intuitivo para proporcionar uma ótima experiência de usuário.
+  Este projeto em desenvolvimento é um front-end para um site de animes, utilizando React, HTML e CSS. O objetivo é criar uma interface atraente e responsiva para os fãs de animes. Serão integradas APIs de serviços relacionados a animes para obter informações atualizadas sobre animes populares, episódios, personagens e avaliações. O foco é entregar um front-end funcional, intuitivo e oferecer uma excelente experiência de usuário.
