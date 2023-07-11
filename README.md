@@ -5,6 +5,6 @@
 
 # Imagens
 
--Página cadastro/login
+- Página cadastro/login
 
-![Imagem do site](src/assets/img-projeto.png)
+![Imagem do site](/front-new-anime/src/assets/img-projeto.png)
